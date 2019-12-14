@@ -65,7 +65,7 @@ export default {
       drawer: false,
       items: [
         {
-          action: "mdi-account",
+          action: "mdi-history",
           title: "Account",
           active: true,
           items: [{ title: "Account 1", router: "/about" }],
